@@ -25,7 +25,7 @@ window.onload = function() {
     'Hey there 👋',
     'I\'m Swarnabha',
     'I am passionate about Artificial Intelligence especially Computer Vision.',
-    'I\'m open for internship opportunities in Summer\'2020.<br> You can contact me at <a href="mailto:swarnabha4399@gmail.com">swarnabha4399@gmail.com</a>',
+    'I\'m open for internship opportunities in Summer 2020.<br> You can contact me at <a href="mailto:swarnabha4399@gmail.com">swarnabha4399@gmail.com</a>',
     '<a target="_blank" href="https://github.com/swarn4399">github.com/swarn4399</a>',
     getCurrentTime(),
     '👀 SR.'
